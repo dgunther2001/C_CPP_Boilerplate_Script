@@ -12,6 +12,6 @@ Utilizes **CMake** and **Docker**, so make sure you have those installed and ena
 - Enter the new directory created by the script.
 - To execute the new project, simply run: `./run.sh`, which will spin up and run the docker container.
 
-I hope you get a lot of use out of this, and are able to avoid the cumbersome process of CMake and Docker Boilerplate Code!  
+I hope you get a lot of use out of this, and are able to avoid the cumbersome process of writing CMake and Docker Boilerplate Code!  
 
 **Note:** This will only work on **Unix** based systems. Sorry Windows users who don't use **WSL**.
